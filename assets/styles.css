@@ -1,0 +1,60 @@
+body {
+  background: #f6f8fa;
+}
+.st-emotion-cache-1v0mbdj {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+  padding: 2rem;
+}
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+}
+.hero-sub {
+  font-size: 1.2rem;
+  color: #4a5568;
+  margin-bottom: 2rem;
+}
+.result-card {
+  background: #e6fffa;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.hospital-card {
+  background: #f7fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.emergency {
+  color: #e53e3e;
+  font-weight: bold;
+}
+.urgent {
+  color: #d69e2e;
+  font-weight: bold;
+}
+.normal {
+  color: #38a169;
+  font-weight: bold;
+}
+.disclaimer {
+  font-size: 0.95rem;
+  color: #718096;
+  margin-top: 2rem;
+  text-align: center;
+}
+.stButton>button {
+  border-radius: 8px;
+  font-weight: 600;
+  padding: 0.6rem 1.2rem;
+}
+.stButton>button:disabled {
+  opacity: 0.5;
+}
